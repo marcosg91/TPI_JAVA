@@ -5,22 +5,46 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="944cfa75-05a9-49d1-9cf0-73d46cc17821" name="Changes" comment="&quot;creacion del proyecto en maven&quot;">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/info/javajedi/bootstrap/BootstrapData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/info/javajedi/bootstrap/constantes/ListaPosiciones.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/info/javajedi/domain/Entrenador.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/info/javajedi/domain/Equipo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/info/javajedi/domain/Jugador.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/info/javajedi/domain/Posicion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/info/javajedi/resources/lista_jugadores.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/info/javajedi/servicio/entrada/ImputService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/info/javajedi/servicio/entrada/file/InputFileService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/info/javajedi/servicio/entrada/file/impl/InputFileServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/info/javajedi/servicio/equipo/impl/ServicioEquipoImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/info/javajedi/servicio/jugador/ServicioJugador.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/info/javajedi/servicio/jugador/impl/ServicioJugadorImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/info/javajedi/servicio/menu/MenuPrincipal.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/info/javajedi/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/info/javajedi/App.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;
   }
-}]]></component>
+}</component>
   <component name="GithubPullRequestsUISettings">
     <option name="selectedUrlAndAccountId">
       <UrlAndAccount>
@@ -42,9 +66,41 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "C:/Users/Marcos/Desktop/TPI JAVA/futbolCinco"
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "C:/Users/Marcos/Downloads/javatpfinal-main",
+    "settings.editor.selected.configurable": "terminal"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="org.info.javajedi.servicio.menuPrincipal" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.MenuPrincipal">
+    <configuration name="MenuPrincipal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.info.javajedi.servicio.menu.MenuPrincipal" />
+      <module name="futbolCinco" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.info.javajedi.servicio.menu.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="futbolCinco-1.0-SNAPSHOT.jar" type="JarApplication" temporary="true">
+      <option name="JAR_PATH" value="$PROJECT_DIR$/target/futbolCinco-1.0-SNAPSHOT.jar" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.MenuPrincipal" />
+        <item itemvalue="JAR Application.futbolCinco-1.0-SNAPSHOT.jar" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -113,5 +169,9 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="&quot;creacion del proyecto en maven&quot;" />
     <option name="LAST_COMMIT_MESSAGE" value="&quot;creacion del proyecto en maven&quot;" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>
